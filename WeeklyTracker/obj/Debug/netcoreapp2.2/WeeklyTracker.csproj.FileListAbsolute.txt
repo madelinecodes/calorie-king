@@ -1,0 +1,14 @@
+C:\Users\Madeline\source\repos\WeeklyTracker\WeeklyTracker\bin\Debug\netcoreapp2.2\WeeklyTracker.deps.json
+C:\Users\Madeline\source\repos\WeeklyTracker\WeeklyTracker\bin\Debug\netcoreapp2.2\WeeklyTracker.runtimeconfig.json
+C:\Users\Madeline\source\repos\WeeklyTracker\WeeklyTracker\bin\Debug\netcoreapp2.2\WeeklyTracker.runtimeconfig.dev.json
+C:\Users\Madeline\source\repos\WeeklyTracker\WeeklyTracker\bin\Debug\netcoreapp2.2\WeeklyTracker.dll
+C:\Users\Madeline\source\repos\WeeklyTracker\WeeklyTracker\bin\Debug\netcoreapp2.2\WeeklyTracker.pdb
+C:\Users\Madeline\source\repos\WeeklyTracker\WeeklyTracker\obj\Debug\netcoreapp2.2\WeeklyTracker.csprojAssemblyReference.cache
+C:\Users\Madeline\source\repos\WeeklyTracker\WeeklyTracker\obj\Debug\netcoreapp2.2\WeeklyTracker.csproj.CoreCompileInputs.cache
+C:\Users\Madeline\source\repos\WeeklyTracker\WeeklyTracker\obj\Debug\netcoreapp2.2\WeeklyTracker.RazorAssemblyInfo.cache
+C:\Users\Madeline\source\repos\WeeklyTracker\WeeklyTracker\obj\Debug\netcoreapp2.2\WeeklyTracker.RazorAssemblyInfo.cs
+C:\Users\Madeline\source\repos\WeeklyTracker\WeeklyTracker\obj\Debug\netcoreapp2.2\WeeklyTracker.AssemblyInfoInputs.cache
+C:\Users\Madeline\source\repos\WeeklyTracker\WeeklyTracker\obj\Debug\netcoreapp2.2\WeeklyTracker.AssemblyInfo.cs
+C:\Users\Madeline\source\repos\WeeklyTracker\WeeklyTracker\obj\Debug\netcoreapp2.2\WeeklyTracker.RazorTargetAssemblyInfo.cache
+C:\Users\Madeline\source\repos\WeeklyTracker\WeeklyTracker\obj\Debug\netcoreapp2.2\WeeklyTracker.dll
+C:\Users\Madeline\source\repos\WeeklyTracker\WeeklyTracker\obj\Debug\netcoreapp2.2\WeeklyTracker.pdb
